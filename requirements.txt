@@ -1,0 +1,13 @@
+jiwer>=4.0.0
+numpy
+pandas
+datasets
+tqdm
+regex
+inflect
+torch
+torchcodec
+torchvision
+transformers
+hf_transfer
+openai

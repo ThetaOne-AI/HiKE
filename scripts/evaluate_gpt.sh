@@ -1,0 +1,1 @@
+python src/main.py --model gpt --model_name gpt-4o-transcribe

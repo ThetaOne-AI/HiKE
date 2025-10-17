@@ -2,6 +2,8 @@
 > [Gio Paik](https://sites.google.com/view/giopaik)\*, [Yongbeom Kim](#), [Soungmin Lee](https://minovermax.github.io/), [Sangmin Ahn](https://www.linkedin.com/in/sangmin-ahn-0656ab1b1/)†, and [Chanwoo Kim](https://www.linkedin.com/in/chanwkim)†, *Under Review*    
 > \* Corresponding Author, † Equal Contribution
 
+[**🇰🇷 한국어 문서**](README_ko.md)
+
 [**✨ Code**](https://github.com/ThetaOne-AI/HiKE) | [**🤗 Dataset**](https://huggingface.co/datasets/thetaone-ai/HiKE) | [**📖 Paper**](https://arxiv.org/abs/2509.24613)
 
 ## Introduction

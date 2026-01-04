@@ -1,5 +1,5 @@
 # HiKE: Hierarchical Evaluation Framework for Korean-English Code-Switching Speech Recognition
-> [Gio Paik](https://sites.google.com/view/giopaik)\*, [Yongbeom Kim](#), [Soungmin Lee](https://minovermax.github.io/), [Sangmin Ahn](https://www.linkedin.com/in/sangmin-ahn-0656ab1b1/)†, and [Chanwoo Kim](https://www.linkedin.com/in/chanwkim)†, *Under Review*    
+> [Gio Paik](https://sites.google.com/view/giopaik)\*, [Yongbeom Kim](#), [Soungmin Lee](https://minovermax.github.io/), [Sangmin Ahn](https://www.linkedin.com/in/sangmin-ahn-0656ab1b1/)†, and [Chanwoo Kim](https://www.linkedin.com/in/chanwkim)†, *EACL Findings 2026*, To Appear    
 > \* Corresponding Author, † Equal Contribution
 
 [**🇰🇷 한국어 문서**](README_ko.md)

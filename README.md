@@ -86,13 +86,24 @@ python src/main.py --model your_model --model_name your/model-or-name
 ## Citation
 
 ```
-@misc{paik2025hike,
-      title={{HiKE}: Hierarchical Evaluation Framework for Korean-English Code-Switching Speech Recognition}, 
-      author={Gio Paik and Yongbeom Kim and Soungmin Lee and Sangmin Ahn and Chanwoo Kim},
-      year={2025},
-      eprint={2509.24613},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2509.24613}, 
+@inproceedings{paik2026hike,
+    title = "{H}i{KE}: Hierarchical Evaluation Framework for {K}orean-{E}nglish Code-Switching Speech Recognition",
+    author = "Paik, Gio  and
+      Kim, Yongbeom  and
+      Lee, Soungmin  and
+      Ahn, Sangmin  and
+      Kim, Chan Woo",
+    editor = "Demberg, Vera  and
+      Inui, Kentaro  and
+      Marquez, Llu{\'i}s",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {EACL} 2026",
+    month = mar,
+    year = "2026",
+    address = "Rabat, Morocco",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-eacl.33/",
+    doi = "10.18653/v1/2026.findings-eacl.33",
+    pages = "673--681",
+    ISBN = "979-8-89176-386-9"
 }
 ```
